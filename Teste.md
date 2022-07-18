@@ -1,0 +1,1 @@
+Teste por terminal Linux
